@@ -6,7 +6,7 @@
 
 # 项目不足改进
 这个项目只是我拿来学习c#练手的项目并没有去想如何进一步混淆特征 流量 规避启发式检测
-
+所以免杀还不是很完美，师傅可以下去自行修改
 
 
 
@@ -18,6 +18,8 @@ c#写好的程序以管理员运行
 
 上传沙箱试试
 ![图片](https://user-images.githubusercontent.com/83112602/233890111-c7e29a0c-3c36-4465-80ea-7dd11489030c.png)
+![图片](https://user-images.githubusercontent.com/83112602/233891408-aa2df664-ba88-40e4-a261-682455210c4b.png)
+
 
 国内杀软比如火绒 360也是都没有问题
 ![图片](https://user-images.githubusercontent.com/83112602/233890261-e8c5b809-41aa-4c5e-9a41-1ac753d7ee71.png)
