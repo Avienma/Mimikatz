@@ -1,0 +1,12 @@
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\ConsoleApp2.exe.config
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\ConsoleApp2.exe
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\ConsoleApp2.pdb
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\System.Management.Automation.dll
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Release\System.Management.Automation.xml
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.csproj.CopyComplete
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.exe
+C:\Users\zyjsuper\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Release\ConsoleApp2.pdb
