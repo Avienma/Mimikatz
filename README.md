@@ -16,9 +16,6 @@ c#写好的程序以管理员运行
 效果就是这样的
 ![图片](https://user-images.githubusercontent.com/83112602/233889894-f0b5b048-aede-45ed-98fa-5c40c33601be.png)
 
-上传沙箱试试
-![图片](https://user-images.githubusercontent.com/83112602/233890111-c7e29a0c-3c36-4465-80ea-7dd11489030c.png)
-![图片](https://user-images.githubusercontent.com/83112602/233891408-aa2df664-ba88-40e4-a261-682455210c4b.png)
 
 
 国内杀软比如火绒 360也是都没有问题
